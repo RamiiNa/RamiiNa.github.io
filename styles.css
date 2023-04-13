@@ -1,0 +1,156 @@
+
+.googlebutton {
+    
+        background-color: #f8f9fa;
+        border: 1px solid #f8f9fa;
+        border-radius: 4px;
+        color: #3c4043;
+        font-family: arial,sans-serif;
+        font-size: 14px;
+        margin: 11px 4px;
+        padding: 0 16px;
+        line-height: 27px;
+        height: 36px;
+        min-width: 54px;
+        text-align: center;
+        cursor: pointer;
+        user-select: none;
+        display: flex;
+        justify-content: center;
+    
+    
+}
+
+.inputgoogle {
+    
+        display: flex;
+        z-index: 3;
+        height: 44px;
+        background: #fff;
+        border: 1px solid #dfe1e5;
+        box-shadow: none;
+        border-radius: 24px;
+        margin: 0 auto;
+        width: 638px;
+        max-width: 584px;
+        margin-top: 15pt;
+    }
+
+
+.toprow {
+    list-style-type: none;
+    flex-direction: row;
+    display: flex;
+    justify-content: end;
+}
+
+li {
+    margin: 7px;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:active {
+    color: black;
+}
+
+.googleimage {
+    display: flex;
+    justify-content: center;
+    margin-top: 50pt;
+    margin-bottom: 5pt;
+}
+
+.centerdiv {
+    display: flex;
+    justify-content: center;
+}
+
+.advancedheading {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+.line   {
+    border-bottom: 1px solid #ebebeb;
+}
+
+.advh4 {
+    font-size: 17px;
+    color:#333333;
+}
+
+.formdiv {
+    margin-top: 25pt;
+    margin-left: 15pt;
+    margin-right: 15pt;
+    margin-bottom: 25pt;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    
+}
+.formrow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    
+}
+
+.formleft {
+    width: 200px;
+}
+.inputvv 
+{
+    width:380px;
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px;
+}
+
+.advancedsubmit {
+    box-shadow: none;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    color: #fff;
+    border-radius: 2px;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    box-sizing: border-box;
+    height: 30px;
+}
+
+.buttonadv {
+    
+    display: flex;
+    justify-content:flex-end;
+   
+}
+.indivform {
+   max-width: max-content;
+
+}
